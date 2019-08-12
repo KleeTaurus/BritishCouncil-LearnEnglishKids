@@ -1,6 +1,10 @@
 # British Council - Learn English Kids
 
-All resources list in here are used for english learning for my kids. All of them are free and you can watch the video in British Council official website or youtube. I recommented you to download the app "playtime" on your mobile phone if you are using iPhone, It's very nice for kids learning. 
+All resources list in this page are used for english learning purpose(just for my kids and me ^_^). All of them are free and you can watch these videos on British Council official website or youtube. I recommented you to download the app named "playtime" on app store if you are using an iPhone, It's very nice for kids learning. 
+
+This fantastic learning material also including worksheet, so you can do practise after watching the little story and you will find the answers at the end of transcript & worksheet section.
+
+Enjoy it!
 
 ## 01. Goldilocks and the three bears
 
