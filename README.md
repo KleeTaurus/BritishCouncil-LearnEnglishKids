@@ -40,3 +40,20 @@ One day Little Red Riding Hood goes to visit her granny. Who will she meet in th
 * [An activity for the story](./02.Little-Red-Riding-Hood/short-stories-little-red-riding-hood-worksheet.pdf)
 * [The answers](./02.Little-Red-Riding-Hood/short-stories-little-red-riding-hood-answers.pdf)
 
+## 03. Jack and the Beanstalk
+
+![logo](./03.Jack-and-the-Beanstalk/logo.jpeg)
+
+Jack has some magic beans! What will happen when they start to grow in his garden? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/jack-and-the-beanstalk)
+* [Youtube link](https://www.youtube.com/watch?v=rKB1_wBueFM&t=15s)
+
+### Transcript & worksheet
+
+* [The story](./03.Jack-and-the-Beanstalk/short-stories-little-red-riding-hood-transcript.pdf)
+* [An activity for the story](./03.Jack-and-the-Beanstalk/short-stories-little-red-riding-hood-worksheet.pdf)
+* [The answers](./03.Jack-and-the-Beanstalk/short-stories-little-red-riding-hood-answers.pdf)
+
