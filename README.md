@@ -53,7 +53,7 @@ Jack has some magic beans! What will happen when they start to grow in his garde
 
 ### Transcript & worksheet
 
-* [The story](./03.Jack-and-the-Beanstalk/short-stories-little-red-riding-hood-transcript.pdf)
-* [An activity for the story](./03.Jack-and-the-Beanstalk/short-stories-little-red-riding-hood-worksheet.pdf)
-* [The answers](./03.Jack-and-the-Beanstalk/short-stories-little-red-riding-hood-answers.pdf)
+* [The story](./03.Jack-and-the-Beanstalk/short-stories-jack-and-the-beanstalk-transcript.pdf)
+* [An activity for the story](./03.Jack-and-the-Beanstalk/short-stories-jack-and-the-beanstalk-worksheet.pdf)
+* [The answers](./03.Jack-and-the-Beanstalk/short-stories-jack-and-the-beanstalk-answers.pdf)
 
