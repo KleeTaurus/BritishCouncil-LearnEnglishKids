@@ -74,4 +74,4 @@ A horrible monster has locked the princess up in a tower. Can anybody rescue her
 * [The story](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-transcript.pdf)
 * [An activity for the story](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-worksheet.pdf)
 * [The answers](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-answers.pdf)
-* [Flashcards](./04.The-princess-and-the-dragon/flashcards for the story.pdf)
+* [Flashcards](./04.The-princess-and-the-dragon/stories-the-princess-and-the-dragon-flashcards.pdf)
