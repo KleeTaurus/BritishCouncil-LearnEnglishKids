@@ -57,3 +57,21 @@ Jack has some magic beans! What will happen when they start to grow in his garde
 * [An activity for the story](./03.Jack-and-the-Beanstalk/short-stories-jack-and-the-beanstalk-worksheet.pdf)
 * [The answers](./03.Jack-and-the-Beanstalk/short-stories-jack-and-the-beanstalk-answers.pdf)
 
+
+## 04. The princess and the dragon
+
+![logo](./04.The-princess-and-the-dragon/logo.jpeg)
+
+A horrible monster has locked the princess up in a tower. Can anybody rescue her? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-princess-and-the-dragon)
+* [Youtube link](https://www.youtube.com/watch?v=oepRTA4s4XM)
+
+### Transcript & worksheet
+
+* [The story](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-transcript.pdf)
+* [An activity for the story](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-worksheet.pdf)
+* [The answers](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-answers.pdf)
+* [Flashcards](./04.The-princess-and-the-dragon/flashcards for the story.pdf)
