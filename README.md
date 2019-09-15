@@ -6,6 +6,8 @@ These fantastic learning materials also including worksheet, so you can do pract
 
 Enjoy it!
 
+[TOC]
+
 ## 01. Goldilocks and the Three Bears
 
 ![logo](./01.Goldilocks-and-the-Three-Bears/logo.jpeg)
