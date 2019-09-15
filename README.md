@@ -75,3 +75,21 @@ A horrible monster has locked the princess up in a tower. Can anybody rescue her
 * [An activity for the story](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-worksheet.pdf)
 * [The answers](./04.The-princess-and-the-dragon/short-stories-the-princess-and-the-dragon-answers.pdf)
 * [Flashcards](./04.The-princess-and-the-dragon/stories-the-princess-and-the-dragon-flashcards.pdf)
+
+
+## 05. The bird king
+
+![logo](./05.The-bird-king/logo.png)
+
+This traditional story is about a race to become the bird king. Which bird will become king? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-bird-king)
+* [Youtube link](https://www.youtube.com/watch?v=sn1_4Iqn6TY&t=9s)
+
+### Transcript & worksheet
+
+* [The story](./05.The-bird-king/short-stories-story-time-the-bird-king-transcript.pdf)
+* [An activity for the story](./05.The-bird-king/short-stories-story-time-the-bird-king-worksheet.pdf)
+* [The answers](./05.The-bird-king/short-stories-story-time-the-bird-king-answers.pdf)
