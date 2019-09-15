@@ -79,7 +79,7 @@ A horrible monster has locked the princess up in a tower. Can anybody rescue her
 
 ## 05. The bird king
 
-![logo](./05.The-bird-king/logo.png)
+![logo](./05.The-bird-king/logo.jpeg)
 
 This traditional story is about a race to become the bird king. Which bird will become king? Watch and find out!
 
