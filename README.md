@@ -99,7 +99,7 @@ This traditional story is about a race to become the bird king. Which bird will 
 
 ## 06. The clever monkey
 
-![logo](./06.The-clever-monkey/logo.jpeg)
+![logo](./06.The-clever-monkey/logo.jpg)
 
 This traditional story is about wanting what your friends have. Will the crocodile get the monkey's heart? Watch and find out!
 
