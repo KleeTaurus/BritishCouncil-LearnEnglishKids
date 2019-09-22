@@ -95,3 +95,21 @@ This traditional story is about a race to become the bird king. Which bird will 
 * [The story](./05.The-bird-king/short-stories-story-time-the-bird-king-transcript.pdf)
 * [An activity for the story](./05.The-bird-king/short-stories-story-time-the-bird-king-worksheet.pdf)
 * [The answers](./05.The-bird-king/short-stories-story-time-the-bird-king-answers.pdf)
+
+
+## 06. The clever monkey
+
+![logo](./06.The-clever-monkey/logo.jpeg)
+
+This traditional story is about wanting what your friends have. Will the crocodile get the monkey's heart? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-clever-monkey)
+* [Youtube link](https://www.youtube.com/watch?v=uWzjLu7e6KM&t=3s)
+
+### Transcript & worksheet
+
+* [The story](./06.The-clever-monkey/short-stories-story-time-the-clever-monkey-transcript.pdf)
+* [An activity for the story](./06.The-clever-monkey/short-stories-story-time-the-clever-monkey-worksheet.pdf)
+* [The answers](./06.The-clever-monkey/short-stories-story-time-the-clever-monkey-answers.pdf)
