@@ -113,3 +113,21 @@ This traditional story is about wanting what your friends have. Will the crocodi
 * [The story](./06.The-clever-monkey/short-stories-story-time-the-clever-monkey-transcript.pdf)
 * [An activity for the story](./06.The-clever-monkey/short-stories-story-time-the-clever-monkey-worksheet.pdf)
 * [The answers](./06.The-clever-monkey/short-stories-story-time-the-clever-monkey-answers.pdf)
+
+
+## 07. The lion and the mouse
+
+![logo](./07.The-lion-and-the-mouse/logo.jpg)
+
+This traditional story is about helping a friend. Can a mouse help a lion? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-lion-and-the-mouse)
+* [Youtube link](https://www.youtube.com/watch?v=TVOBACpbTHc)
+
+### Transcript & worksheet
+
+* [The story](./07.The-lion-and-the-mouse/short-stories-story-time-the-lion-and-the-mouse-transcript.pdf)
+* [An activity for the story](./07.The-lion-and-the-mouse/short-stories-story-time-the-lion-and-the-mouse-worksheet.pdf)
+* [The answers](./07.The-lion-and-the-mouse/short-stories-story-time-the-lion-and-the-mouse-answers.pdf)
