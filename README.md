@@ -6,8 +6,6 @@ These fantastic learning materials also including worksheet, so you can do pract
 
 Enjoy it!
 
-[TOC]
-
 ## 01. Goldilocks and the Three Bears
 
 ![logo](./01.Goldilocks-and-the-Three-Bears/logo.jpeg)
@@ -131,3 +129,21 @@ This traditional story is about helping a friend. Can a mouse help a lion? Watch
 * [The story](./07.The-lion-and-the-mouse/short-stories-story-time-the-lion-and-the-mouse-transcript.pdf)
 * [An activity for the story](./07.The-lion-and-the-mouse/short-stories-story-time-the-lion-and-the-mouse-worksheet.pdf)
 * [The answers](./07.The-lion-and-the-mouse/short-stories-story-time-the-lion-and-the-mouse-answers.pdf)
+
+
+## 08. The lump of gold
+
+![logo](./08.The-lump-of-gold/logo.jpg)
+
+This traditional story is about what makes you happy. Will Paul be happy when he buys a lump of gold? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-lump-gold)
+* [Youtube link](https://www.youtube.com/watch?v=6JBLY__29sA)
+
+### Transcript & worksheet
+
+* [The story](./08.The-lump-of-gold/short-stories-story-time-the-lump-of-gold-transcript.pdf)
+* [An activity for the story](./08.The-lump-of-gold/short-stories-story-time-the-lump-of-gold-worksheet.pdf)
+* [The answers](./08.The-lump-of-gold/short-stories-story-time-the-lump-of-gold-answers.pdf)
