@@ -147,3 +147,37 @@ This traditional story is about what makes you happy. Will Paul be happy when he
 * [The story](./08.The-lump-of-gold/short-stories-story-time-the-lump-of-gold-transcript.pdf)
 * [An activity for the story](./08.The-lump-of-gold/short-stories-story-time-the-lump-of-gold-worksheet.pdf)
 * [The answers](./08.The-lump-of-gold/short-stories-story-time-the-lump-of-gold-answers.pdf)
+
+
+## 09. The magic fish
+
+![logo](./09.The-magic-fish/logo.jpg)
+
+This traditional story is about finding a very special fish. Will Robert and his grandfather catch the magic fish? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-magic-fish)
+
+### Transcript & worksheet
+
+* [The story](./09.The-magic-fish/short-stories-story-time-the-magic-fish-transcript.pdf)
+* [An activity for the story](./09.The-magic-fish/short-stories-story-time-the-magic-fish-worksheet.pdf)
+* [The answers](./09.The-magic-fish/short-stories-story-time-the-magic-fish-answers.pdf)
+
+
+## 10. The magic paintbrush
+
+![logo](./10.The-magic-paintbrush/logo.jpg)
+
+This traditional story is about using your talents to help others. What can the magic paintbrush do? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-magic-paintbrush)
+
+### Transcript & worksheet
+
+* [The story](./10.The-magic-paintbrush/short-stories-story-time-the-magic-paintbrush-transcript.pdf)
+* [An activity for the story](./10.The-magic-paintbrush/short-stories-story-time-the-magic-paintbrush-worksheet.pdf)
+* [The answers](./10.The-magic-paintbrush/short-stories-story-time-the-magic-paintbrush-answers.pdf)
