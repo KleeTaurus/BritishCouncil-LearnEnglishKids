@@ -166,18 +166,18 @@ This traditional story is about finding a very special fish. Will Robert and his
 * [The answers](./09.The-magic-fish/short-stories-story-time-the-magic-fish-answers.pdf)
 
 
-## 10. The magic paintbrush
+## 11. The sneaky rabbit
 
-![logo](./10.The-magic-paintbrush/logo.jpg)
+![logo](./11.The-sneaky-rabbit/logo.jpg)
 
-This traditional story is about using your talents to help others. What can the magic paintbrush do? Watch and find out!
+This traditional story is about how a rabbit tricks a tiger. Will the rabbit escape? Watch and find out!
 
 ### Video
 
-* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-magic-paintbrush)
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-sneaky-rabbit)
 
 ### Transcript & worksheet
 
-* [The story](./10.The-magic-paintbrush/short-stories-story-time-the-magic-paintbrush-transcript.pdf)
-* [An activity for the story](./10.The-magic-paintbrush/short-stories-story-time-the-magic-paintbrush-worksheet.pdf)
-* [The answers](./10.The-magic-paintbrush/short-stories-story-time-the-magic-paintbrush-answers.pdf)
+* [The story](./11.The-sneaky-rabbit/short-stories-story-time-the-sneaky-rabbit-transcript.pdf)
+* [An activity for the story](./11.The-sneaky-rabbit/short-stories-story-time-the-sneaky-rabbit-worksheet.pdf)
+* [The answers](./11.The-sneaky-rabbit/short-stories-story-time-the-sneaky-rabbit-answers.pdf)
