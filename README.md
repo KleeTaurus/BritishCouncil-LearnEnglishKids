@@ -181,3 +181,37 @@ This traditional story is about how a rabbit tricks a tiger. Will the rabbit esc
 * [The story](./11.The-sneaky-rabbit/short-stories-story-time-the-sneaky-rabbit-transcript.pdf)
 * [An activity for the story](./11.The-sneaky-rabbit/short-stories-story-time-the-sneaky-rabbit-worksheet.pdf)
 * [The answers](./11.The-sneaky-rabbit/short-stories-story-time-the-sneaky-rabbit-answers.pdf)
+ 
+
+## 12. The ugly duckling
+
+![logo](./12.The-ugly-duckling/logo.jpg)
+
+This traditional story is about being friends with people who are different from you. Will the ugly duckling find a friend? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-ugly-duckling)
+
+### Transcript & worksheet
+
+* [The story](./12.The-ugly-duckling/short-stories-story-time-the-ugly-duckling-transcript.pdf)
+* [An activity for the story](./12.The-ugly-duckling/short-stories-story-time-the-ugly-duckling-worksheet.pdf)
+* [The answers](./12.The-ugly-duckling/short-stories-story-time-the-ugly-duckling-answers.pdf)
+
+
+## 13. A dog's life
+
+![logo](./13.A-dogs-life/logo.jpg)
+
+Dino the family dog helps to keep people safe on the roads. What did he do last week? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/dogs-life)
+
+### Transcript & worksheet
+
+* [The story](./13.A-dogs-life/short-stories-a-dogs-life-transcript.pdf)
+* [An activity for the story](./13.A-dogs-life/short-stories-a-dogs-life-worksheet.pdf)
+* [The answers](./13.A-dogs-life/short-stories-a-dogs-life-answers.pdf)
