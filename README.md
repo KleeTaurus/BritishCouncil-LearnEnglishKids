@@ -215,3 +215,20 @@ Dino the family dog helps to keep people safe on the roads. What did he do last 
 * [The story](./13.A-dogs-life/short-stories-a-dogs-life-transcript.pdf)
 * [An activity for the story](./13.A-dogs-life/short-stories-a-dogs-life-worksheet.pdf)
 * [The answers](./13.A-dogs-life/short-stories-a-dogs-life-answers.pdf)
+
+
+## 14. Dark dark wood
+
+![logo](./14.Dark-dark-wood/logo.jpg)
+
+There are strange things in the dark, dark wood! What are they? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/dark-dark-wood)
+
+### Transcript & worksheet
+
+* [The story](./14.Dark-dark-wood/short-stories-dark-dark-wood-transcript.pdf)
+* [An activity for the story](./14.Dark-dark-wood/short-stories-dark-dark-wood-worksheet.pdf)
+* [The answers](./14.Dark-dark-wood/short-stories-dark-dark-wood-answers.pdf)
