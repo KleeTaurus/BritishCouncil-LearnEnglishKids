@@ -232,3 +232,37 @@ There are strange things in the dark, dark wood! What are they? Watch and find o
 * [The story](./14.Dark-dark-wood/short-stories-dark-dark-wood-transcript.pdf)
 * [An activity for the story](./14.Dark-dark-wood/short-stories-dark-dark-wood-worksheet.pdf)
 * [The answers](./14.Dark-dark-wood/short-stories-dark-dark-wood-answers.pdf)
+
+
+## 15. The haunted house
+
+![logo](./15.The-haunted-house/logo.jpg)
+
+Bob the dog has run away into a haunted house. Can the children find Bob? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-haunted-house)
+
+### Transcript & worksheet
+
+* [The story](./15.The-haunted-house/short-stories-the-haunted-house-transcript.pdf)
+* [An activity for the story](./15.The-haunted-house/short-stories-the-haunted-house-worksheet.pdf)
+* [The answers](./15.The-haunted-house/short-stories-the-haunted-house-answers.pdf)
+
+
+## 16. The mummy
+
+![logo](./16.The-mummy/logo.jpg)
+
+Two children are on holiday at the Pyramids in Egypt. What adventures will they have? Watch and find out!
+
+### Video
+
+* [Official link](https://learnenglishkids.britishcouncil.org/short-stories/the-mummy)
+
+### Transcript & worksheet
+
+* [The story](./16.The-mummy/short-stories-the-mummy-transcript.pdf)
+* [An activity for the story](./16.The-mummy/short-stories-the-mummy-worksheet.pdf)
+* [The answers](./16.The-mummy/short-stories-the-mummy-answers.pdf)
